@@ -12,11 +12,11 @@ O planner é uma aplicação de planejamento semanal que permite aos usuários o
 
 # Backend
 
--Node.js
--Express
--RabbitMQ para comunicação entre microsserviços
--MySQL
--Barramento de eventos para sincronização entre microsserviços.
+- Node.js
+- Express
+- RabbitMQ para comunicação entre microsserviços
+- MySQL
+- Barramento de eventos para sincronização entre microsserviços.
 
 # Frontend
 
